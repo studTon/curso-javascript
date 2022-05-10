@@ -1,0 +1,14 @@
+button {
+    padding: 22px;
+    font-family: monospace;
+}
+
+body {
+    background-color: blue;
+    color: whitesmoke;
+    font-family: monospace;
+}
+
+p {
+    font-weight: 700;
+}
